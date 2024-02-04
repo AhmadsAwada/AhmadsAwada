@@ -2,6 +2,7 @@
 - 👀 I’m interested in PROGRAMMING
 - 🌱 I’m currently learning How to post a website
 - And I am so good at HTML and CSS
+- And I will learn Java this Summer
 <!--
 And I want to learn Java
 AhmadsAwada/AhmadsAwada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
