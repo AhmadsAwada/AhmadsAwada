@@ -4,7 +4,6 @@
 - And I am so good at HTML and CSS
 - And I will learn Java this Summer
 <!--
-And I want to learn Java
 AhmadsAwada/AhmadsAwada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
